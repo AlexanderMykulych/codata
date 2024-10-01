@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "new-package": {
+      "factory": "./src/generators/new-package/generator",
+      "schema": "./src/generators/new-package/schema.json",
+      "description": "automation generator"
+    }
+  }
+}
