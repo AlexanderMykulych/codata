@@ -1,3 +1,3 @@
 export interface AutomationGeneratorSchema {
-  name: string;
+  name: string
 }
