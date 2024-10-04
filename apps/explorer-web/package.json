@@ -10,12 +10,16 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@guolao/vue-monaco-editor": "1.5.4",
+    "@monaco-editor/loader": "1.4.0",
+    "monaco-editor": "0.52.0",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
     "@unocss/nuxt": "0.63.2",
+    "shiki": "1.21.0",
     "unocss": "0.63.2"
   }
 }
